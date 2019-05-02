@@ -10,7 +10,16 @@ design of a memory sub system with cache memory
   6. Replacement Algorithm - None
   
   ### Simulation Results (using Isim simulator)
-  #### Data not in cache - Empty cache line 
+  #### Read data when data not available in cache - Empty cache line 
   ![image 1](https://github.com/damithkawshan/Cache-Design-VERILOG/blob/master/simulation%20results/data%20not%20in%20cache.png)
-  #### Data in cache
+  #### Read data when data available in cache
   ![image 2](https://github.com/damithkawshan/Cache-Design-VERILOG/blob/master/simulation%20results/data%20in%20cache.png)
+   #### Read data when data not available in cache - Tag mismatch
+  ![image 3](https://github.com/damithkawshan/Cache-Design-VERILOG/blob/master/simulation%20results/no_data_valid_line.png)
+   #### Write data when data not available in cache - Empty cache line 
+  ![image 4](https://github.com/damithkawshan/Cache-Design-VERILOG/blob/master/simulation%20results/write_data_not_exist_cline.png)
+  #### Write data when data available in cache - Same cache line 
+  ![image 5](https://github.com/damithkawshan/Cache-Design-VERILOG/blob/master/simulation%20results/write_data_existing_cache_line_same_addr.png)
+  
+
+  
