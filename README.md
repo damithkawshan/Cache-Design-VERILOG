@@ -11,6 +11,6 @@ design of a memory sub system with cache memory
   
   ### Simulation Results (using Isim simulator)
   #### Data not in cache - Empty cache line 
-  ![image 1](https://github.com/damithkawshan/Cache-Design-VERILOG/blob/master/data%20not%20in%20cache.png)
+  ![image 1](https://github.com/damithkawshan/Cache-Design-VERILOG/blob/master/simulation%20results/data%20not%20in%20cache.png)
   #### Data in cache
-  ![image 1](https://github.com/damithkawshan/Cache-Design-VERILOG/blob/master/data%20in%20cache.png)
+  ![image 2](https://github.com/damithkawshan/Cache-Design-VERILOG/blob/master/simulation%20results/data%20in%20cache.pngg)
