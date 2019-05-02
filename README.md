@@ -13,4 +13,4 @@ design of a memory sub system with cache memory
   #### Data not in cache - Empty cache line 
   ![image 1](https://github.com/damithkawshan/Cache-Design-VERILOG/blob/master/simulation%20results/data%20not%20in%20cache.png)
   #### Data in cache
-  ![image 2](https://github.com/damithkawshan/Cache-Design-VERILOG/blob/master/simulation%20results/data%20in%20cache.pngg)
+  ![image 2](https://github.com/damithkawshan/Cache-Design-VERILOG/blob/master/simulation%20results/data%20in%20cache.png)
