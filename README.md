@@ -1,5 +1,5 @@
 # Cache-Design-VERILOG
-design of a memory sub system with cache memory
+Design of a memory sub system with cache memory using verilog hardware description language. You can implement this in an FPGA. 
 
 ## Specifications
   1. Size                  - 512kB

@@ -51,7 +51,7 @@ input [7 : 0] dina;
 output [7 : 0] douta;
 
 // synthesis translate_off
-
+// initilaizing the necessary modules
   BLK_MEM_GEN_V7_3 #(
     .C_ADDRA_WIDTH(16),
     .C_ADDRB_WIDTH(16),
