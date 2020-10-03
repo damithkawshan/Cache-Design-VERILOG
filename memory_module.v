@@ -77,6 +77,7 @@ assign block_out={data_block[8],data_block[7],data_block[6],data_block[5],data_b
 //if data_block ready set ready to one
 assign ready=({offset[2:0],(done|prev)}==0001 & ~wr_en); 
 
+// at the positive edges of the clock
 always @(posedge clk) begin
 	data_block[offset]<=mem_out; //store datafrom dram in stack
 	prev<=done;
